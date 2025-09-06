@@ -4,9 +4,16 @@ class Animal {
         System.out.println("eating...");
     }
 }
+class Dog extends Animal {
+    void bark() {
+        System.out.println("barking...");
+    }
+}
 public class o1 {
     public static void main(String[] args) {
         Animal a = new Animal();
         a.eat();
+        Dog d = new Dog();
+        d.bark();
     }
 }
