@@ -2,9 +2,9 @@ package java_full;
 
 public class f10 {
     public static void main(String[] args) {
-        System.out.println("/\"Hello, World!\"/");
-         System.out.println("Hello, World!\n how are you?");
-         System.out.println("Hello, \t World!");
+        System.out.println("/\"Java, World!\"/");
+         System.out.println("Hi, World!\n how are you?");
+         System.out.println("Hi, \t World!");
             System.out.println("Hello, \\ World!"); 
             System.out.println("Hello, \b World!");
             System.out.println("Hii, \r World!");
