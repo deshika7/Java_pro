@@ -13,7 +13,7 @@ public class f10 {
             System.out.println("Hii, \f World!");
             System.out.println("Hi, \u00A9 World!");
             System.out.println("Hi, \u00AE World!");
-            System.out.println("Hi, \u2122 World!");
+            //System.out.println("Hi, \u2122 World!");
 
     }
 }
