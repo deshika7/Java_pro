@@ -15,7 +15,7 @@ public class c11 {
 
         int c = sc.nextInt();
 
-       
+        System.out.println("Input three numbers: " + a + ", " + b + ", " + c);     
         int greatest = (a > b) ? ((a > c) ? a : c) 
                                : ((b > c) ? b : c);
 
