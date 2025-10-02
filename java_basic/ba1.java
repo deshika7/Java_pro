@@ -7,6 +7,7 @@ public class ba1 {
         System.out.println("Hello, Java!");
         System.out.println("Java world ");
         System.out.println("hi world");
+        System.out.println("hi java");
     }
     
 }
