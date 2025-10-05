@@ -8,7 +8,7 @@ public class ba2 {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter your name:");
         String name = sc.nextLine();
-        System.out.println("Hiii, " + name + "!");
+        System.out.println("Hiii!! This is , " + name + "!");
     }
 }
 
