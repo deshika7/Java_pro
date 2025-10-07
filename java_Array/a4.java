@@ -12,7 +12,7 @@ public class a4 {
             arr[i]=sc.nextInt();
             sum=sum+arr[i];
         }
-        System.out.println(sum);
+        System.out.println("the sum is "+sum);
         sc.close();
     }
 }
