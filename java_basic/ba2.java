@@ -9,7 +9,9 @@ public class ba2 {
         System.out.println("Enter your name:");
         String name = sc.nextLine();
         System.out.println("Hello This is , " + name + "!");
-         sc.close();
+                System.out.println("Hello This is , " + name + "!");
+
+        sc.close();
     }
 }
 
